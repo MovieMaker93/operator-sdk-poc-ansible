@@ -1,0 +1,1 @@
+# operator-sdk-poc-ansible
